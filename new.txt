@@ -1,5 +1,4 @@
-Favorite movie :"Pirates of the Caribbean",
-Favorite serial:"Dexter", 
-Favorite dish: "pizza", 
-Favorite_season: "summer",
-Country which I want to visit: "Australia"
+1) My name is Jane;
+2) I'm 36 years old;
+3) I've 2 cats;
+4) I want to get 2000$ at month as QA engineer
