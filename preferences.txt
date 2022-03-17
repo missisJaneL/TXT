@@ -1,0 +1,5 @@
+Favorite movie :"Pirates of the Caribbean",
+Favorite serial:"Dexter", 
+Favorite dish: "pizza", 
+Favorite_season: "summer",
+Country which I want to visit: "Australia"
